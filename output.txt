@@ -1,0 +1,246 @@
+ TIME       | THREAD   | ID   | STATUS
+------------+----------+------+------------
+ 1396288919 | Main     | 0    | Initializing semaphore
+ 1396288919 | Main     | 0    | Initializing variables
+ 1396288919 | Main     | 0    | Spawning hydrogen 0
+ 1396288919 | Main     | 0    | Spawning hydrogen 1
+ 1396288919 | Main     | 0    | Spawning hydrogen 2
+ 1396288919 | Hydrogen | 0    | Wait for bond
+ 1396288919 | Hydrogen | 1    | Wait for bond
+ 1396288919 | Main     | 0    | Spawning hydrogen 3
+ 1396288919 | Hydrogen | 2    | Wait for bond
+ 1396288919 | Main     | 0    | Spawning hydrogen 4
+ 1396288919 | Hydrogen | 3    | Wait for bond
+ 1396288919 | Main     | 0    | Spawning hydrogen 5
+ 1396288919 | Hydrogen | 4    | Wait for bond
+ 1396288919 | Main     | 0    | Spawning hydrogen 6
+ 1396288919 | Hydrogen | 5    | Wait for bond
+ 1396288919 | Main     | 0    | Spawning hydrogen 7
+ 1396288919 | Hydrogen | 6    | Wait for bond
+ 1396288919 | Main     | 0    | Spawning hydrogen 8
+ 1396288919 | Hydrogen | 7    | Wait for bond
+ 1396288919 | Main     | 0    | Spawning hydrogen 9
+ 1396288919 | Hydrogen | 8    | Wait for bond
+ 1396288919 | Main     | 0    | Spawning hydrogen 10
+ 1396288919 | Hydrogen | 9    | Wait for bond
+ 1396288919 | Main     | 0    | Spawning hydrogen 11
+ 1396288919 | Hydrogen | 10   | Wait for bond
+ 1396288919 | Main     | 0    | Spawning hydrogen 12
+ 1396288919 | Hydrogen | 11   | Wait for bond
+ 1396288919 | Main     | 0    | Spawning hydrogen 13
+ 1396288919 | Hydrogen | 12   | Wait for bond
+ 1396288919 | Main     | 0    | Spawning hydrogen 14
+ 1396288919 | Hydrogen | 13   | Wait for bond
+ 1396288919 | Main     | 0    | Spawning hydrogen 15
+ 1396288919 | Hydrogen | 14   | Wait for bond
+ 1396288919 | Main     | 0    | Spawning hydrogen 16
+ 1396288919 | Hydrogen | 15   | Wait for bond
+ 1396288919 | Main     | 0    | Spawning hydrogen 17
+ 1396288919 | Hydrogen | 16   | Wait for bond
+ 1396288919 | Main     | 0    | Spawning hydrogen 18
+ 1396288919 | Hydrogen | 17   | Wait for bond
+ 1396288919 | Main     | 0    | Spawning hydrogen 19
+ 1396288919 | Hydrogen | 18   | Wait for bond
+ 1396288919 | Main     | 0    | Spawning hydrogen 20
+ 1396288919 | Hydrogen | 19   | Wait for bond
+ 1396288919 | Main     | 0    | Spawning hydrogen 21
+ 1396288919 | Hydrogen | 20   | Wait for bond
+ 1396288919 | Main     | 0    | Spawning hydrogen 22
+ 1396288919 | Hydrogen | 21   | Wait for bond
+ 1396288919 | Main     | 0    | Spawning hydrogen 23
+ 1396288919 | Hydrogen | 22   | Wait for bond
+ 1396288919 | Main     | 0    | Spawning hydrogen 24
+ 1396288919 | Hydrogen | 23   | Wait for bond
+ 1396288919 | Main     | 0    | Spawning hydrogen 25
+ 1396288919 | Hydrogen | 24   | Wait for bond
+ 1396288919 | Main     | 0    | Spawning hydrogen 26
+ 1396288919 | Hydrogen | 25   | Wait for bond
+ 1396288919 | Main     | 0    | Spawning hydrogen 27
+ 1396288919 | Hydrogen | 26   | Wait for bond
+ 1396288919 | Main     | 0    | Spawning hydrogen 28
+ 1396288919 | Hydrogen | 27   | Wait for bond
+ 1396288919 | Main     | 0    | Spawning hydrogen 29
+ 1396288919 | Hydrogen | 28   | Wait for bond
+ 1396288919 | Main     | 0    | Spawning hydrogen 30
+ 1396288919 | Hydrogen | 29   | Wait for bond
+ 1396288919 | Main     | 0    | Spawning hydrogen 31
+ 1396288919 | Hydrogen | 30   | Wait for bond
+ 1396288919 | Main     | 0    | Spawning hydrogen 32
+ 1396288919 | Hydrogen | 31   | Wait for bond
+ 1396288919 | Main     | 0    | Spawning hydrogen 33
+ 1396288919 | Hydrogen | 32   | Wait for bond
+ 1396288919 | Main     | 0    | Spawning hydrogen 34
+ 1396288919 | Hydrogen | 33   | Wait for bond
+ 1396288919 | Main     | 0    | Spawning hydrogen 35
+ 1396288919 | Hydrogen | 34   | Wait for bond
+ 1396288919 | Main     | 0    | Spawning hydrogen 36
+ 1396288919 | Hydrogen | 35   | Wait for bond
+ 1396288919 | Main     | 0    | Spawning hydrogen 37
+ 1396288919 | Hydrogen | 36   | Wait for bond
+ 1396288919 | Main     | 0    | Spawning hydrogen 38
+ 1396288919 | Hydrogen | 37   | Wait for bond
+ 1396288919 | Main     | 0    | Spawning hydrogen 39
+ 1396288919 | Hydrogen | 38   | Wait for bond
+ 1396288919 | Main     | 0    | Spawning oxygen 0
+ 1396288919 | Hydrogen | 39   | Wait for bond
+ 1396288919 | Main     | 0    | Spawning oxygen 1
+ 1396288919 | Oxygen   | 0    | Invoking bond
+ 1396288919 | Hydrogen | 0    | Bond invoked
+ 1396288919 | Hydrogen | 0    | Destroyed
+ 1396288919 | Main     | 0    | Spawning oxygen 2
+ 1396288919 | Hydrogen | 1    | Bond invoked
+ 1396288919 | Hydrogen | 1    | Crossed the barrier
+ 1396288919 | Hydrogen | 1    | has become H2O
+ 1396288919 | Oxygen   | 1    | Invoking bond
+ 1396288919 | Oxygen   | 1    | Destroyed
+ 1396288919 | Hydrogen | 2    | Bond invoked
+ 1396288919 | Hydrogen | 2    | Destroyed
+ 1396288919 | Hydrogen | 3    | Bond invoked
+ 1396288919 | Hydrogen | 3    | Crossed the barrier
+ 1396288919 | Hydrogen | 3    | has become H2O
+ 1396288919 | Main     | 0    | Spawning oxygen 3
+ 1396288919 | Oxygen   | 2    | Invoking bond
+ 1396288919 | Oxygen   | 2    | Destroyed
+ 1396288919 | Hydrogen | 5    | Bond invoked
+ 1396288919 | Hydrogen | 5    | Destroyed
+ 1396288919 | Hydrogen | 4    | Bond invoked
+ 1396288919 | Hydrogen | 4    | Crossed the barrier
+ 1396288919 | Hydrogen | 4    | has become H2O
+ 1396288919 | Main     | 0    | Spawning oxygen 4
+ 1396288919 | Oxygen   | 0    | Destroyed
+ 1396288919 | Oxygen   | 3    | Invoking bond
+ 1396288919 | Oxygen   | 3    | Destroyed
+ 1396288919 | Hydrogen | 7    | Bond invoked
+ 1396288919 | Hydrogen | 7    | Destroyed
+ 1396288919 | Hydrogen | 6    | Bond invoked
+ 1396288919 | Hydrogen | 6    | Crossed the barrier
+ 1396288919 | Hydrogen | 6    | has become H2O
+ 1396288919 | Main     | 0    | Spawning oxygen 5
+ 1396288919 | Oxygen   | 4    | Invoking bond
+ 1396288919 | Oxygen   | 4    | Destroyed
+ 1396288919 | Hydrogen | 9    | Bond invoked
+ 1396288919 | Hydrogen | 9    | Destroyed
+ 1396288919 | Hydrogen | 8    | Bond invoked
+ 1396288919 | Hydrogen | 8    | Crossed the barrier
+ 1396288919 | Hydrogen | 8    | has become H2O
+ 1396288919 | Main     | 0    | Spawning oxygen 6
+ 1396288919 | Oxygen   | 5    | Invoking bond
+ 1396288919 | Oxygen   | 5    | Destroyed
+ 1396288919 | Hydrogen | 10   | Bond invoked
+ 1396288919 | Hydrogen | 10   | Destroyed
+ 1396288919 | Hydrogen | 11   | Bond invoked
+ 1396288919 | Hydrogen | 11   | Crossed the barrier
+ 1396288919 | Hydrogen | 11   | has become H2O
+ 1396288919 | Main     | 0    | Spawning oxygen 7
+ 1396288919 | Oxygen   | 6    | Invoking bond
+ 1396288919 | Hydrogen | 13   | Bond invoked
+ 1396288919 | Hydrogen | 13   | Destroyed
+ 1396288919 | Oxygen   | 6    | Destroyed
+ 1396288919 | Hydrogen | 12   | Bond invoked
+ 1396288919 | Hydrogen | 12   | Crossed the barrier
+ 1396288919 | Hydrogen | 12   | has become H2O
+ 1396288919 | Main     | 0    | Spawning oxygen 8
+ 1396288919 | Oxygen   | 7    | Invoking bond
+ 1396288919 | Hydrogen | 14   | Bond invoked
+ 1396288919 | Hydrogen | 14   | Destroyed
+ 1396288919 | Hydrogen | 15   | Bond invoked
+ 1396288919 | Hydrogen | 15   | Crossed the barrier
+ 1396288919 | Hydrogen | 15   | has become H2O
+ 1396288919 | Main     | 0    | Spawning oxygen 9
+ 1396288919 | Oxygen   | 8    | Invoking bond
+ 1396288919 | Oxygen   | 8    | Destroyed
+ 1396288919 | Hydrogen | 17   | Bond invoked
+ 1396288919 | Hydrogen | 17   | Destroyed
+ 1396288919 | Hydrogen | 16   | Bond invoked
+ 1396288919 | Hydrogen | 16   | Crossed the barrier
+ 1396288919 | Hydrogen | 16   | has become H2O
+ 1396288919 | Oxygen   | 7    | Destroyed
+ 1396288919 | Main     | 0    | Spawning oxygen 10
+ 1396288919 | Oxygen   | 9    | Invoking bond
+ 1396288919 | Hydrogen | 18   | Bond invoked
+ 1396288919 | Hydrogen | 18   | Destroyed
+ 1396288919 | Hydrogen | 19   | Bond invoked
+ 1396288919 | Hydrogen | 19   | Crossed the barrier
+ 1396288919 | Hydrogen | 19   | has become H2O
+ 1396288919 | Oxygen   | 9    | Destroyed
+ 1396288919 | Main     | 0    | Spawning oxygen 11
+ 1396288919 | Oxygen   | 10   | Invoking bond
+ 1396288919 | Hydrogen | 20   | Bond invoked
+ 1396288919 | Hydrogen | 20   | Destroyed
+ 1396288919 | Hydrogen | 21   | Bond invoked
+ 1396288919 | Hydrogen | 21   | Crossed the barrier
+ 1396288919 | Hydrogen | 21   | has become H2O
+ 1396288919 | Oxygen   | 10   | Destroyed
+ 1396288919 | Main     | 0    | Spawning oxygen 12
+ 1396288919 | Oxygen   | 11   | Invoking bond
+ 1396288919 | Oxygen   | 11   | Destroyed
+ 1396288919 | Hydrogen | 23   | Bond invoked
+ 1396288919 | Hydrogen | 23   | Destroyed
+ 1396288919 | Hydrogen | 22   | Bond invoked
+ 1396288919 | Hydrogen | 22   | Crossed the barrier
+ 1396288919 | Hydrogen | 22   | has become H2O
+ 1396288919 | Main     | 0    | Spawning oxygen 13
+ 1396288919 | Oxygen   | 12   | Invoking bond
+ 1396288919 | Oxygen   | 12   | Destroyed
+ 1396288919 | Hydrogen | 25   | Bond invoked
+ 1396288919 | Hydrogen | 25   | Destroyed
+ 1396288919 | Hydrogen | 24   | Bond invoked
+ 1396288919 | Hydrogen | 24   | Crossed the barrier
+ 1396288919 | Hydrogen | 24   | has become H2O
+ 1396288919 | Main     | 0    | Spawning oxygen 14
+ 1396288919 | Oxygen   | 13   | Invoking bond
+ 1396288919 | Oxygen   | 13   | Destroyed
+ 1396288919 | Hydrogen | 26   | Bond invoked
+ 1396288919 | Hydrogen | 26   | Destroyed
+ 1396288919 | Hydrogen | 27   | Bond invoked
+ 1396288919 | Hydrogen | 27   | Crossed the barrier
+ 1396288919 | Hydrogen | 27   | has become H2O
+ 1396288919 | Main     | 0    | Spawning oxygen 15
+ 1396288919 | Oxygen   | 14   | Invoking bond
+ 1396288919 | Oxygen   | 14   | Destroyed
+ 1396288919 | Hydrogen | 29   | Bond invoked
+ 1396288919 | Hydrogen | 29   | Destroyed
+ 1396288919 | Main     | 0    | Spawning oxygen 16
+ 1396288919 | Hydrogen | 28   | Bond invoked
+ 1396288919 | Hydrogen | 28   | Crossed the barrier
+ 1396288919 | Hydrogen | 28   | has become H2O
+ 1396288919 | Oxygen   | 15   | Invoking bond
+ 1396288919 | Oxygen   | 15   | Destroyed
+ 1396288919 | Hydrogen | 31   | Bond invoked
+ 1396288919 | Hydrogen | 31   | Destroyed
+ 1396288919 | Hydrogen | 30   | Bond invoked
+ 1396288919 | Hydrogen | 30   | Crossed the barrier
+ 1396288919 | Hydrogen | 30   | has become H2O
+ 1396288919 | Main     | 0    | Spawning oxygen 17
+ 1396288919 | Oxygen   | 16   | Invoking bond
+ 1396288919 | Oxygen   | 16   | Destroyed
+ 1396288919 | Hydrogen | 33   | Bond invoked
+ 1396288919 | Hydrogen | 33   | Destroyed
+ 1396288919 | Main     | 0    | Spawning oxygen 18
+ 1396288919 | Hydrogen | 32   | Bond invoked
+ 1396288919 | Hydrogen | 32   | Crossed the barrier
+ 1396288919 | Hydrogen | 32   | has become H2O
+ 1396288919 | Oxygen   | 17   | Invoking bond
+ 1396288919 | Oxygen   | 17   | Destroyed
+ 1396288919 | Hydrogen | 34   | Bond invoked
+ 1396288919 | Hydrogen | 34   | Destroyed
+ 1396288919 | Hydrogen | 35   | Bond invoked
+ 1396288919 | Hydrogen | 35   | Crossed the barrier
+ 1396288919 | Hydrogen | 35   | has become H2O
+ 1396288919 | Oxygen   | 18   | Invoking bond
+ 1396288919 | Oxygen   | 18   | Destroyed
+ 1396288919 | Main     | 0    | Spawning oxygen 19
+ 1396288919 | Hydrogen | 37   | Bond invoked
+ 1396288919 | Hydrogen | 37   | Destroyed
+ 1396288919 | Hydrogen | 36   | Bond invoked
+ 1396288919 | Hydrogen | 36   | Crossed the barrier
+ 1396288919 | Hydrogen | 36   | has become H2O
+ 1396288919 | Main     | 0    | Done spawning
+ 1396288919 | Oxygen   | 19   | Invoking bond
+ 1396288919 | Hydrogen | 39   | Bond invoked
+ 1396288919 | Hydrogen | 39   | Destroyed
+ 1396288919 | Hydrogen | 38   | Bond invoked
+ 1396288919 | Hydrogen | 38   | Crossed the barrier
+ 1396288919 | Hydrogen | 38   | has become H2O
+ 1396288919 | Oxygen   | 19   | Destroyed
+ 1396288919 | Main     | 0    | Terminating

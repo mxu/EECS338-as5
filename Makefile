@@ -1,5 +1,5 @@
 CC = gcc
-CFLAGS = -Wall -pedantic
+CFLAGS = -Wall -pthread -pedantic
 OBJ = main
 
 all: $(OBJ)
